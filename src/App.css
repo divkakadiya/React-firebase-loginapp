@@ -107,3 +107,7 @@ body {
     padding: 40px 15px 15px 15px;
   }
 }
+
+.wr {
+  min-height: 250px;
+}
